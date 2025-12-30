@@ -61,7 +61,6 @@ Example AOB:
 
 Wildcards allow the signature to remain valid across:
 
-- ASLR
 - Minor compiler changes
 - Small Windows updates
 
